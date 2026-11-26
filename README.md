@@ -49,6 +49,8 @@ If you want to add your project, open a PR. Projects with some traction will be 
 - [llamactl](https://github.com/lordmathis/llamactl): Unified management and routing for llama.cpp, MLX and vLLM models with web dashboard.
 - [mlx_sharding](https://github.com/mzbac/mlx_sharding): Distributed Inference for mlx LLm
 
+- [MLX Stack](https://github.com/mukhanov/mlx-stack): Native macOS menu-bar app for Apple Silicon that runs local LLMs with MLX or llama.cpp and serves OpenAI- and Anthropic-compatible APIs on localhost for coding agents. Model manager with RAM-budgeted downloads, launch parameters with a live memory forecast, and a live monitor of decode rate, context usage and system load.
+
 ## Audio & Speech
 
 - [voicebox](https://github.com/jamiepine/voicebox): The open-source voice synthesis studio
