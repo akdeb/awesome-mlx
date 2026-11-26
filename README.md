@@ -74,6 +74,7 @@ If you want to add your project, open a PR. Projects with some traction will be 
 - [SAM](https://github.com/SyntheticAutonomicMind/SAM): Synthetic Autonomic Mind - An AI assistant for everyone.
 - [images_example](https://github.com/keuhdall/images_example): A simple example program made for the 42 students going into the graphic branch. Its purpose is to help them understanding the way images are working in the MLX (the graphcal lib we use).
 - [miniLibX_sample](https://github.com/S-LucasSerrano/miniLibX_sample): Well-organized, commented and documented sample project that shows the basic functionalities of the 42's mlx library.
+- [fastforks](https://github.com/kleinicke/fastforks): Faster versions of ~600 published computer-vision models (depth, stereo, optical flow, segmentation, detection, classification, backbones) behind one API, with an MLX backend on Apple silicon (currently dynamically converted, moving to hand-written MLX ports).
 
 ## Training, Fine-tuning & Optimization
 
